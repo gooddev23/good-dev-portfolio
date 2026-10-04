@@ -1,0 +1,17 @@
+footer{
+  background-color: rgb(37, 25, 59); 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px; 
+}
+.foot-text{
+  color: white;
+  font-size: 12px;
+}
+.foot-span{
+  color: rgb(104, 38, 210);
+}
+.foot-up{
+  width: 28px;
+}

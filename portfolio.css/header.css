@@ -1,0 +1,43 @@
+header{
+  background-color: rgb(37, 25, 59);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.name{
+  font-size: 25px;
+  margin-left: 50px;
+}
+span{
+  color: rgb(104, 38, 210);
+}
+.links{
+  display: flex;
+  margin-right: 120px;
+}
+.home{
+  color:white;
+  margin-right: 30px;
+  text-decoration: none;
+}
+.about{
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;
+}
+.skills{
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;  
+}
+.projects{
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;  
+}
+.contac{
+  text-decoration: none;
+  color: white;  
+}

@@ -1,0 +1,36 @@
+.aboutt{
+  display: flex;
+  padding: 35px 70px;
+  gap:70px;
+}
+.comp-pic{
+  height: 240px;
+  width: 100%;
+}
+.about-text{
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 0;
+} 
+.brief{
+  line-height: 22px;
+}
+.html-text{
+  font-size: 18px;
+  font-weight: bold;
+}
+.html-use{
+  text-align: center;
+}
+.logo-container{
+  display: flex;
+  gap: 70px;
+}
+.dp-wrap{
+  display: flex;
+  align-items: center;
+}
+.dp{
+  height: 30px;
+  margin-right: 10px;
+}

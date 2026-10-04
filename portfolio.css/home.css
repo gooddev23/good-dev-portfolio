@@ -1,0 +1,48 @@
+.hero-section{
+  display: flex;
+  background-color: rgb(1, 1, 66);
+  height:300px;
+  color: white;
+  align-items: center;
+  padding-left: 80px;
+}
+.introduction{
+  font-size: 35px;
+  margin-bottom: 0;
+}
+.school{
+  font-size: 15px;
+  margin-right: 100px;
+  letter-spacing: 2px;
+}
+span{
+  color: rgb(104, 38, 210);
+}
+.project{
+  background-color: rgb(107, 65, 223);
+  color: white;
+  border-style: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.contact{
+  color: white;
+  background-color: inherit;
+  border: solid 1px white;
+  padding: 9px 14px;
+  border-radius: 4px;  
+  cursor: pointer;
+}
+.explore, .music, .apps{
+  height: 26px;
+  margin: 30px 7px;
+}
+.pic{
+  margin-right: 100px;
+  height: 250px;
+  width: 250px;
+  border-radius: 130px;
+  object-fit: cover;
+}

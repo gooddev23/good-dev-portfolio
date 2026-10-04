@@ -1,0 +1,30 @@
+.skill{
+  padding: 35px 70px;
+  background-color: rgba(228, 228, 228, 0.299);
+}
+.skill-text{
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 0;  
+}
+.div-box{
+  display: flex;
+  gap: 70px;
+}  
+ .html,.css,.js{
+  width: 250px;
+  height: 200px;
+  background-color: white; 
+  align-content: center;
+  justify-items: center;
+  border-style: none;
+  border-radius: 5px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+}
+.logo{
+  height: 45px;
+  display: block;
+}
+.html-use{
+  font-size: 14px;
+}
